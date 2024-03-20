@@ -1,0 +1,9 @@
+# OpenText Geofeed,,,
+# This feed is encoded in RFC 8805 format.,,,
+,,,
+# This data feed provides approximate geo locations for a subset of OpenText IP space and the data included in this feed may be used only for improving the accuracy of Geo:IP lookups ,,,
+,,,
+,,,
+,,,
+IP Range,Country,City,State
+149.82.55.128/25,IN,IN-Bengaluru,Karnataka
